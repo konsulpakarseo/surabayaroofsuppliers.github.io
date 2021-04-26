@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
   
-Sitemap: https://surabaya.roof.suppliers.id/video-sitemap.xml
+Sitemap: https://surabaya.roof.suppliers.id/sitemap_index.xml
